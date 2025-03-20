@@ -24,7 +24,3 @@ if document == "y" or  document == "Y":
     
 else:
     print("No file created.")
-
-
-# make sure it works in .docs 
-# try to make it save them in a more sutible place.
